@@ -11,4 +11,9 @@ In the project, I will use this dataset to train my own model to generate captio
 
 http://images.cocodataset.org/val2014/COCO_val2014_000000235864.jpg
 
-![Sample Caption](images/sample_caption.png)
+![Sample Caption](images/sample_caption.JPG)
+
+
+I will use the dataset of image-caption pairs to train a CNN-RNN model to automatically generate images from captions. 
+
+![CNN-RNN](images/encoder-decoder.png)
